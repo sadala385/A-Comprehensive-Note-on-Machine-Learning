@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document serves as an educational resource primarily designed for the courses I teach, including:
+This document serves as an educational resource primarily designed for the courses I teach, including: sUMANTH SADALA
 
 - **CSE 474/574 Introduction to Machine Learning**
 - **CSE 455/555 Pattern Recognition**
